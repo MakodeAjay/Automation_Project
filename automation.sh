@@ -36,4 +36,5 @@ aws s3 \
 cp /tmp/Ajay-httpd-logs-* \
 s3://upgrad-ajaymakode
 
+#remove files
 rm -rf /tmp/Ajay*
